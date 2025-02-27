@@ -1,0 +1,12 @@
+torch
+ultralytics
+pandas
+numpy
+shapely
+matplotlib
+supervision
+scikit-learn
+os
+shutil
+glob
+colab
